@@ -1,0 +1,22 @@
+/*font-family: 'Antic', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;*/
+
+/* content wrapper*/
+#content {
+    margin: 0 auto;
+    width: 65%;
+}
+
+h3, h4, h5 {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+h4, h5 {
+    font-style: italic;
+    font-weight: 14px;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
